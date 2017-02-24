@@ -1,1 +1,3 @@
-wordpress theme creator de de maxi falcone
+wordpress theme creator de maxi falcone
+
+sass --watch style.scss:../style.css --style compressed;
